@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor 
 
 keyboard_create = VkKeyboard(one_time=False, inline=False)
