@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import keyboard_config
 
 questions_data = {
